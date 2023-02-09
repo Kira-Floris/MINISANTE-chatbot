@@ -1,0 +1,392 @@
+{
+  "intents":[
+      {
+        "responses":[
+            "https://www.moh.gov.rw/"
+        ],
+        "tag":"HomePage",
+        "patterns":[
+          "Where can I find the homepage for the Ministry of Health's website?",
+          "Can you direct me to the main page of the Ministry of Health's site?",
+          "I'm looking for the homepage of the Ministry of Health's website. Can you help me find it?",
+          "Can you show me the starting point for the Ministry of Health's online presence?",
+          "I want to visit the Ministry of Health's homepage. Can you give me the URL?",
+          "Can you point me in the direction of the main page of the Ministry of Health's website?",
+          "Is there a specific URL for the Ministry of Health's homepage that I can use to access the site?",
+          "I'm having trouble finding the Ministry of Health's homepage. Can you assist me in locating it?",
+          "Can you provide me with the link to the Ministry of Health's homepage?",
+          "Where do I go to find the homepage for the Ministry of Health's website?",
+          "I'd like to start at the beginning of the Ministry of Health's website. Can you tell me where to find the homepage?",
+          "Can you give me the URL for the Ministry of Health's homepage so I can access the site?",
+          "Is there a specific address for the main page of the Ministry of Health's website?",
+          "I'm looking for the entry point to the Ministry of Health's online presence. Can you help me find the homepage?",
+          "Can you show me the starting point for exploring the Ministry of Health's website?",
+          "I want to navigate to the Ministry of Health's homepage. Can you provide me with the URL?",
+          "Can you direct me to the Ministry of Health's homepage so I can learn more about the organization?",
+          "Where is the main page for the Ministry of Health's website located?",
+          "Can you assist me in finding the URL for the Ministry of Health's homepage?",
+          "I'd like to start my journey on the Ministry of Health's website at the homepage. Can you help me find it?"
+        ]
+      },
+      {
+        "responses":[
+            "https://www.moh.gov.rw/programs/clinical-and-public-health-services"
+        ],
+        "tag":"programs clinical and public health services",
+        "patterns":[
+          "What types of programs for clinical and public health services does the Ministry of Health offer?",
+          "Can you provide an overview of the programs for clinical and public health services available through the Ministry of Health?",
+          "What are the goals and objectives of the Ministry of Health's programs for clinical and public health services?",
+          "How do the Ministry of Health's programs for clinical and public health services benefit the public?",
+          "What is the process for accessing the Ministry of Health's programs for clinical and public health services?",
+          "Are there eligibility requirements for the Ministry of Health's programs for clinical and public health services?",
+          "What are the benefits of participating in the Ministry of Health's programs for clinical and public health services?",
+          "Are there any fees associated with the Ministry of Health's programs for clinical and public health services?",
+          "What is the timeline for the Ministry of Health's programs for clinical and public health services?",
+          "How is the effectiveness of the Ministry of Health's programs for clinical and public health services measured?",
+          "Are there any case studies or success stories about the Ministry of Health's programs for clinical and public health services?",
+          "Does the Ministry of Health offer any training or support for individuals participating in their programs for clinical and public health services?",
+          "What is the role of healthcare providers in the Ministry of Health's programs for clinical and public health services?",
+          "Are there any resources available to help individuals navigate the Ministry of Health's programs for clinical and public health services?",
+          "What is the role of community organizations in the Ministry of Health's programs for clinical and public health services?",
+          "How are the Ministry of Health's programs for clinical and public health services funded?",
+          "What is the process for reporting feedback or concerns about the Ministry of Health's programs for clinical and public health services?",
+          "Are there any plans for expanding or improving the Ministry of Health's programs for clinical and public health services in the future?",
+          "What is the process for evaluating the success of the Ministry of Health's programs for clinical and public health services?",
+          "Is there a way to get involved in supporting or volunteering for the Ministry of Health's programs for clinical and public health services?"
+        ]
+      },
+      {
+        "responses":[
+            "https://www.moh.gov.rw/covid-19-info"
+        ],
+        "tag":"covid 19 info",
+        "patterns":[
+          "What is the purpose of the Ministry of Health's COVID-19 information page?",
+          "How frequently is the COVID-19 information page on the Ministry of Health's website updated?",
+          "What type of information is available on the Ministry of Health's COVID-19 information page?",
+          "Can you provide an overview of the COVID-19 situation in Rwanda according to the information on the Ministry of Health's website?",
+          "What are the Ministry of Health's guidelines for preventing the spread of COVID-19?",
+          "What is the process for getting tested for COVID-19 in Rwanda according to the Ministry of Health's website?",
+          "What are the symptoms of COVID-19 according to the information on the Ministry of Health's website?",
+          "What is the recommended course of action for individuals who have been in close contact with someone who has tested positive for COVID-19, according to the Ministry of Health's website?",
+          "What is the process for seeking medical attention for COVID-19, according to the Ministry of Health's website?",
+          "What are the Ministry of Health's recommendations for protecting vulnerable populations from COVID-19?",
+          "What is the Ministry of Health's advice for individuals who have traveled to areas with a high number of COVID-19 cases, according to the information on their website?",
+          "What is the current status of COVID-19 vaccine distribution in Rwanda, according to the information on the Ministry of Health's website?",
+          "Are there any resources available to help individuals understand the COVID-19 vaccine, according to the information on the Ministry of Health's website?",
+          "What is the process for getting vaccinated against COVID-19 in Rwanda, according to the Ministry of Health's website?",
+          "What is the Ministry of Health's guidance for holding large events during the COVID-19 pandemic, according to their website?",
+          "Are there any resources available for individuals and businesses who have been financially impacted by the COVID-19 pandemic, according to the information on the Ministry of Health's website?",
+          "What is the Ministry of Health's guidance for schools and educational institutions during the COVID-19 pandemic, according to their website?",
+          "Are there any resources available for individuals with mental health concerns related to the COVID-19 pandemic, according to the information on the Ministry of Health's website?",
+          "What is the Ministry of Health's advice for individuals who have recovered from COVID-19, according to their website?",
+          "Are there any resources available for individuals who have lost a loved one to COVID-19, according to the information on the Ministry of Health's website?"
+        ]
+      },
+      {
+        "responses":[
+            "https://www.moh.gov.rw/mandate/programmes"
+        ],
+        "tag":"mandate programmes",
+        "patterns":[
+          "What is the purpose of the mandate programs?",
+          "What are the specific programs included in the mandate?",
+          "What is the target audience for the mandate programs?",
+          "What are the eligibility criteria for the programs?",
+          "How can individuals apply for the programs?",
+          "What is the timeline for the implementation of the programs?",
+          "What resources are available to support individuals in participating in the programs?",
+          "What is the expected outcome of the programs?",
+          "What is the budget for the mandate programs?",
+          "How will the success of the programs be evaluated?",
+          "What is the role of healthcare providers in the mandate programs?",
+          "How will the mandate programs impact the current healthcare system?",
+          "What measures will be taken to ensure the programs are accessible to all individuals in need?",
+          "What is the process for resolving disputes or complaints related to the mandate programs?",
+          "How will personal data collected as part of the mandate programs be protected?",
+          "What is the plan for sustaining the programs after initial implementation?",
+          "What research was conducted to inform the development of the mandate programs?",
+          "How will feedback from program participants be used to make improvements?",
+          "What steps will be taken to address potential barriers to program participation?"
+        ]
+      },
+      {
+        "responses":[
+            "https://www.moh.gov.rw/news"
+        ],
+        "tag":"news",
+        "patterns":[
+          "What is the purpose of the news page?",
+          "What types of news and updates are included on the page?",
+          "How often is the news page updated?",
+          "What is the source of the information on the news page?",
+          "How can individuals subscribe to receive updates from the news page?",
+          "What is the process for submitting news or press releases to be featured on the page?",
+          "How can individuals provide feedback or ask questions about the news on the page?",
+          "What is the policy for correcting errors or inaccuracies on the page?",
+          "How is the news page organized and navigated?",
+          "What is the expected audience for the news page?",
+          "What are the goals of the news page in relation to the Ministry's overall mission?",
+          "How does the news page support transparency and communication with the public?",
+          "What is the process for reviewing and vetting the information before it is posted on the news page?",
+          "How does the news page support crisis communication and emergency response?",
+          "What resources are available for individuals seeking additional information about the news on the page?",
+          "How does the news page promote public engagement and participation?",
+          "What measures are in place to ensure the security and confidentiality of sensitive information on the news page?",
+          "What is the plan for archiving and preserving the news on the page for future reference?",
+          "How does the news page support the Ministry's overall communication strategy?"
+          ]
+      },
+      {
+        "responses":[
+            "https://www.moh.gov.rw/contact"
+        ],
+        "tag":"contact",
+        "patterns":[
+          "What is the purpose of the contact page?",
+        "How can individuals contact the Ministry of Health?",
+        "What is the process for submitting questions or requests to the Ministry?",
+        "What is the expected response time for inquiries made through the contact page?",
+        "What is the policy for handling sensitive or confidential information submitted through the contact page?",
+        "What resources are available to support individuals in reaching the right department or individual within the Ministry?",
+        "How can individuals provide feedback or suggestions about the Ministry's services?",
+        "What is the process for reporting issues or concerns about the Ministry's programs or services?",
+        "What is the contact information for specific departments within the Ministry?",
+        "What is the process for reporting public health emergencies?",
+        "What is the procedure for reporting suspected cases of abuse or neglect in healthcare facilities?",
+        "How can individuals stay informed about the Ministry's activities and initiatives?",
+        "What is the process for requesting public records or information from the Ministry?",
+        "How can individuals request a meeting with the Ministry or a representative?",
+        "What is the process for submitting a complaint about the Ministry or a representative?",
+        "What is the process for reporting suspected fraud or waste in the Ministry's programs or services?",
+        "What resources are available for individuals seeking help with navigating the healthcare system?",
+        "What is the process for reporting problems with the Ministry's website or online services?",
+        "What measures are in place to ensure the security and confidentiality of personal information submitted through the contact page?"
+        ]
+      },
+      {
+        "responses":[
+            "https://www.moh.gov.rw/about"
+        ],
+        "tag":"about",
+        "patterns":[
+          "Can you tell me where I can find the 'About Us' section for the Ministry of Health's website?",
+          "Is there an 'About Us' page on the Ministry of Health's site that provides information about the organization?",
+          "Can you direct me to the page on the Ministry of Health's website that gives an overview of the organization's history and background?",
+          "Can you show me the 'About Us' section on the Ministry of Health's website?",
+          "I'm interested in learning more about the Ministry of Health. Is there an 'About Us' page I can read?",
+          "Can you point me in the direction of the 'About Us' page on the Ministry of Health's website?",
+          "Is there any information about the Ministry of Health's mission and values available on their website?",
+          "Can you tell me where to find information about the people behind the Ministry of Health's website?",
+          "Can you direct me to the page on the Ministry of Health's website that gives an overview of the organization's history and accomplishments?",
+          "I'm looking for the 'About Us' section on the Ministry of Health's website. Can you help me find it?",
+          "Can you show me the page on the Ministry of Health's website that provides details about the organization's management team?",
+          "Where can I find information about the Ministry of Health's culture and work environment on their website?",
+          "Can you direct me to the 'About Us' section that gives a brief history of the Ministry of Health?",
+          "Is there a page on the Ministry of Health's website that provides more information about the organization's values and principles?",
+          "Can you show me where I can find the 'About Us' page on the Ministry of Health's website that provides an overview of the organization's products and services?",
+          "I'm interested in learning more about the Ministry of Health's history and background. Can you tell me where to find this information on their website?",
+          "Can you direct me to the 'About Us' section on the Ministry of Health's website that gives a detailed description of the organization's mission and vision?",
+          "Can you help me find the page on the Ministry of Health's website that provides information about the organization's management team and leadership?",
+          "Is there a section on the Ministry of Health's website that gives a brief overview of the organization's history and milestones?",
+          "Can you show me where I can find the 'About Us' page on the Ministry of Health's website that provides a general overview of the organization and its operations?"]
+      },
+      {
+        "responses":[
+            "https://www.moh.gov.rw/services"
+        ],
+        "tag":"services",
+        "patterns":[
+          "What is the purpose of the services page?",
+          "What services are offered by the Ministry of Health?",
+          "What services can I get from Ministry of Health",
+          "What is the target audience for the services offered by the Ministry?",
+          "What is the process for accessing the services offered by the Ministry?",
+          "What are the eligibility criteria for the services offered by the Ministry?",
+          "What is the cost of the services offered by the Ministry, if any?",
+          "What resources are available to support individuals in accessing and using the services offered by the Ministry?",
+          "What is the expected outcome of the services offered by the Ministry?",
+          "How are the services offered by the Ministry evaluated and improved?",
+          "What is the role of healthcare providers in the services offered by the Ministry?",
+          "What measures are in place to ensure that the services offered by the Ministry are accessible to all individuals in need?",
+          "What is the process for resolving disputes or complaints related to the services offered by the Ministry?",
+          "How will personal data collected as part of the services offered by the Ministry be protected?",
+          "What is the plan for sustaining the services offered by the Ministry after initial implementation?",
+          "What research was conducted to inform the development of the services offered by the Ministry?",
+          "How will feedback from service users be used to make improvements?",
+          "What steps will be taken to address potential barriers to accessing the services offered by the Ministry?",
+          "What is the process for requesting additional services from the Ministry?",
+          "How does the Ministry work with other government agencies and organizations to offer comprehensive services to the public?"
+        ]
+      },
+      {
+        "responses":[
+            "https://www.moh.gov.rw/news-detail/ebola-outbreak-how-ready-are-we"
+        ],
+        "tag":"news detail ebola outbreak how ready are we",
+        "patterns":[
+          "What is the purpose of the news detail page about the Ebola outbreak and readiness?",
+          "What information is being shared on this page about the Ebola outbreak and readiness?",
+          "What is the target audience for the information on the Ebola outbreak page?",
+          "What is the current status of the Ebola outbreak and how is it being monitored?",
+          "What measures has the Ministry of Health taken to prepare for and respond to the Ebola outbreak?",
+          "How is the Ministry of Health working with other government agencies and organizations to coordinate the response to the Ebola outbreak?",
+          "What steps is the Ministry of Health taking to raise awareness about the Ebola outbreak and prevent its spread?",
+          "What resources are available to individuals who may have been exposed to the Ebola virus?",
+          "What is the process for reporting suspected cases of Ebola?",
+          "What is the procedure for safely caring for individuals with suspected or confirmed cases of Ebola?",
+          "What measures are in place to ensure the safety of healthcare workers responding to the Ebola outbreak?",
+          "What is the Ministry of Health's plan for treating and containing the Ebola outbreak?",
+          "What is the timeline for the response to the Ebola outbreak and what are the key milestones?",
+          "What is the Ministry of Health's plan for long-term recovery from the Ebola outbreak?",
+          "How is the Ministry of Health working with communities and healthcare providers to ensure effective and culturally appropriate responses to the Ebola outbreak?",
+          "What is the process for obtaining up-to-date information about the Ebola outbreak and the Ministry of Health's response?",
+          "What is the role of international partners in the response to the Ebola outbreak?",
+          "What is the Ministry of Health's plan for addressing potential economic impacts of the Ebola outbreak?",
+          "How is the Ministry of Health working to ensure that response to the Ebola outbreak is equitable and does not discriminate against certain populations?",
+          "What is the Ministry of Health's plan for addressing the social and emotional impacts of the Ebola outbreak?"
+          ]
+      },
+      {
+        "responses":[
+            "https://www.moh.gov.rw/news-detail/call-for-one-health-approach-to-end-neglected-tropical-diseases-in-rwanda"
+        ],
+        "tag":"news detail call for one health approach to end neglected tropical diseases in rwanda",
+        "patterns":[
+          "What is the purpose of the news detail page about the call for a One Health approach to end neglected tropical diseases in Rwanda?",
+          "What is the background of the call for a One Health approach to end neglected tropical diseases in Rwanda?",
+          "What is the significance of adopting a One Health approach to ending neglected tropical diseases in Rwanda?",
+          "What are neglected tropical diseases and why are they a concern in Rwanda?",
+          "What is the current status of neglected tropical diseases in Rwanda and how is it being monitored?",
+          "What measures has the Ministry of Health taken to address neglected tropical diseases in Rwanda?",
+          "How is the Ministry of Health working with other government agencies and organizations to coordinate the response to neglected tropical diseases in Rwanda?",
+          "What is the role of healthcare providers, communities, and the general public in ending neglected tropical diseases in Rwanda?",
+          "What resources are available to individuals affected by neglected tropical diseases in Rwanda?",
+          "What is the process for reporting and diagnosing neglected tropical diseases in Rwanda?",
+          "What is the procedure for treating and preventing neglected tropical diseases in Rwanda?",
+          "What measures are in place to ensure that efforts to end neglected tropical diseases in Rwanda are equitable and do not discriminate against certain populations?",
+          "What is the timeline for ending neglected tropical diseases in Rwanda and what are the key milestones?",
+          "What is the Ministry of Health's plan for long-term disease control and prevention?",
+          "What is the role of international partners in ending neglected tropical diseases in Rwanda?",
+          "What research is being conducted to inform the response to neglected tropical diseases in Rwanda?",
+          "What is the process for obtaining up-to-date information about neglected tropical diseases in Rwanda and the Ministry of Health's response?",
+          "What steps is the Ministry of Health taking to raise awareness about neglected tropical diseases and prevent their spread?",
+          "How is the Ministry of Health working with communities to ensure effective and culturally appropriate responses to neglected tropical diseases in Rwanda?",
+          "What is the plan for addressing potential economic impacts of neglected tropical diseases in Rwanda?"
+          ]
+      },
+      {
+        "responses":[
+            "https://www.moh.gov.rw/news-detail/rwanda-marks-world-cancer-day-1"
+        ],
+        "tag":"news detail rwanda marks world cancer day 1",
+        "patterns":[
+          "What is the purpose of the news detail page about Rwanda marking World Cancer Day?",
+          "What is the background of World Cancer Day and why is it important?",
+          "What activities took place in Rwanda to mark World Cancer Day?",
+          "What was the focus of World Cancer Day in Rwanda?",
+          "What is the current status of cancer in Rwanda and how is it being monitored?",
+          "What measures has the Ministry of Health taken to address cancer in Rwanda?",
+          "How is the Ministry of Health working with other government agencies and organizations to coordinate the response to cancer in Rwanda?",
+          "What is the role of healthcare providers, communities, and the general public in addressing cancer in Rwanda?",
+          "What resources are available to individuals affected by cancer in Rwanda?",
+          "What is the process for diagnosing and treating cancer in Rwanda?",
+          "What measures are in place to ensure that efforts to address cancer in Rwanda are equitable and do not discriminate against certain populations?",
+          "What is the timeline for addressing cancer in Rwanda and what are the key milestones?",
+          "What is the Ministry of Health's plan for long-term cancer control and prevention?",
+          "What is the role of international partners in addressing cancer in Rwanda?",
+          "What research is being conducted to inform the response to cancer in Rwanda?",
+          "What is the process for obtaining up-to-date information about cancer in Rwanda and the Ministry of Health's response?",
+          "What steps is the Ministry of Health taking to raise awareness about cancer and prevent its spread?",
+          "How is the Ministry of Health working with communities to ensure effective and culturally appropriate responses to cancer in Rwanda?",
+          "What is the plan for addressing potential economic impacts of cancer in Rwanda?",
+          "What was the outcome of the activities held to mark World Cancer Day in Rwanda?"
+          ]
+      },
+      {
+        "responses":[
+            "https://www.moh.gov.rw/programs/planning-health-financing-and-information-systems"
+        ],
+        "tag":"programs planning health financing and information systems",
+        "patterns":[
+          "What is the role of programs planning, health financing, and information systems in the Ministry of Health's mission and goals?",
+          "How does the Ministry of Health use programs planning, health financing, and information systems to achieve its objectives?",
+          "What is the process for designing and implementing programs, planning health financing, and information systems within the Ministry of Health?",
+          "How does the Ministry of Health ensure that its programs, health financing, and information systems are effective and efficient?",
+          "What are the key challenges and risks associated with programs planning, health financing, and information systems within the Ministry of Health?",
+          "How does the Ministry of Health prioritize and allocate resources for programs, health financing, and information systems?",
+          "What is the role of data and research in informing programs planning, health financing, and information systems within the Ministry of Health?",
+          "What is the role of stakeholders in programs planning, health financing, and information systems within the Ministry of Health?",
+          "What is the impact of changes in context on programs planning, health financing, and information systems within the Ministry of Health?",
+          "How does the Ministry of Health measure the effectiveness of its programs, health financing, and information systems in achieving its mission and goals?",
+          "What is the role of civil society in programs planning, health financing, and information systems within the Ministry of Health?",
+          "How can the Ministry of Health adapt its programs, health financing, and information systems to address emerging challenges and changing needs?",
+          "What is the role of international organizations and partnerships in programs planning, health financing, and information systems within the Ministry of Health?",
+          "What is the role of communication and engagement in programs planning, health financing, and information systems within the Ministry of Health?",
+          "How does the Ministry of Health ensure the sustainability of its programs, health financing, and information systems over the long-term?",
+          "What is the role of feedback and evaluation in informing future programs planning, health financing, and information systems within the Ministry of Health?",
+          "What is the role of ethics and privacy in programs planning, health financing, and information systems within the Ministry of Health?",
+          "How can programs planning, health financing, and information systems within the Ministry of Health support wider health systems and goals?",
+          "What is the role of innovation and technology in programs planning, health financing, and information systems within the Ministry of Health?",
+          "What is the role of best practices and standards in programs planning, health financing, and information systems within the Ministry of Health?"
+          ]
+      },
+      {
+        "responses":[
+            "https://www.moh.gov.rw/programs/corporate-services-division"
+        ],
+        "tag":"programs corporate services division",
+        "patterns":[
+          "What is the role of the Ministry of Health in context programs for health planning and financing?",
+          "How does the Ministry of Health ensure the success of health financing and information systems through context programs?",
+          "What is the Ministry of Health's approach to planning and financing health systems in different contexts?",
+          "What information does the Ministry of Health require for effective planning and financing of health systems in a given context?",
+          "How does the Ministry of Health allocate resources for health financing and information systems based on context?",
+          "What are the key components of context programs as implemented by the Ministry of Health in health financing and information systems?",
+          "How does the Ministry of Health measure the effectiveness of its context programs in health financing and information systems?",
+          "What strategies does the Ministry of Health use to address challenges in the planning and financing of health systems in a given context?",
+          "What is the Ministry of Health's role in the development of policies related to context programs, health financing, and information systems?",
+          "How does the Ministry of Health ensure the sustainability of its context programs in health financing and information systems over the long-term?",
+          "What is the role of stakeholders in the planning and financing of context programs as implemented by the Ministry of Health in health financing and information systems?",
+          "How does the Ministry of Health implement its context programs in health financing and information systems?",
+          "What is the impact of changes in context on the Ministry of Health's approach to planning and financing health systems?",
+          "How does the Ministry of Health ensure that its context programs in health financing and information systems are equitable and accessible to all?",
+          "What is the role of data and information in the planning and financing of context programs as implemented by the Ministry of Health in health financing and information systems?",
+          "How does the Ministry of Health utilize technology in its planning and financing of context programs in health financing and information systems?",
+          "What is the role of research in informing the Ministry of Health's development and implementation of context programs in health financing and information systems?",
+          "How can international organizations and partnerships support the Ministry of Health's planning and financing of context programs in health financing and information systems?",
+          "What is the role of civil society in the planning and financing of context programs as implemented by the Ministry of Health in health financing and information systems?",
+          "How can the Ministry of Health adapt its context programs in health financing and information systems to address emerging challenges?"
+          ]
+      },
+      {
+        "responses":[
+            "https://www.moh.gov.rw/publications"
+        ],
+        "tag":"publications",
+        "patterns":[
+          "What is the role of context publications in the Ministry of Health's mission and goals?",
+          "How does the Ministry of Health use context publications to share information with stakeholders?",
+          "What is the process for creating and distributing context publications within the Ministry of Health?",
+          "What types of information are included in context publications produced by the Ministry of Health?",
+          "How does the Ministry of Health ensure the accuracy and quality of information in its context publications?",
+          "What is the role of data and research in informing context publications produced by the Ministry of Health?",
+          "What are the key themes and topics addressed in context publications produced by the Ministry of Health?",
+          "How does the Ministry of Health utilize technology to produce and distribute context publications?",
+          "How does the Ministry of Health ensure that its context publications are accessible to all stakeholders?",
+          "What is the role of stakeholders in the creation and distribution of context publications produced by the Ministry of Health?",
+          "What is the impact of changes in context on the content and distribution of context publications produced by the Ministry of Health?",
+          "How does the Ministry of Health measure the effectiveness of its context publications in achieving its mission and goals?",
+          "What is the role of civil society in the creation and distribution of context publications produced by the Ministry of Health?",
+          "How can the Ministry of Health adapt its context publications to address emerging challenges and changing needs?",
+          "What is the role of international organizations and partnerships in the creation and distribution of context publications produced by the Ministry of Health?",
+          "What is the role of communication and engagement in context publications produced by the Ministry of Health?",
+          "How does the Ministry of Health ensure the sustainability of its context publications over the long-term?",
+          "What is the role of feedback and evaluation in informing future context publications produced by the Ministry of Health?",
+          "What is the role of ethics and privacy in context publications produced by the Ministry of Health?",
+          "How can context publications produced by the Ministry of Health support wider health systems and goals?"
+          ]
+      }
+    ]
+}
