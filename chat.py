@@ -44,6 +44,6 @@ class chatBot():
         if prob.item() > 0.75:
             for intent in self.intents['intents']:
                 if tag == intent["tag"]:
-                    return random.choice(intent['responses'])
+                    return f"Follow this link for more info on {intent["tag"]}: {random.choice(intent['responses'])}"
         else:
             return "I am sorry I do not understand the question! 🥺"
