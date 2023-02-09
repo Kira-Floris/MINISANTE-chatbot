@@ -18,6 +18,7 @@
 *** for contributors-url, forks-url, etc. This is an optional, concise syntax you may use.
 *** https://www.markdownguide.org/basic-syntax/#reference-style-links
 -->
+
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
@@ -101,7 +102,7 @@ After running the gunicorn command open your browser at http://127.0.0.1/5000 to
 <!-- CONTACT -->
 ## Contact
 
-Arnaud Kayonga - [@Linkedin](https://www.linkedin.com/in/nzabakira-floris-25622b19a/) - nzafloris@gmail.com
+Floris Nzabakira - [@Linkedin](https://www.linkedin.com/in/nzabakira-floris-25622b19a/) - nzafloris@gmail.com
 
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
