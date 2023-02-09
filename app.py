@@ -82,7 +82,7 @@ def predict():
     #check if text is valid (I let it for you)
     response, sl = process(text)
     # we jsonify our response
-    message = {"answer":response}
+    message = {"answer":f"<a href={response}>{response}</a>"}
     query = Queries(question=text, answer=response, language=sl)
     db.session.add(query)
     db.session.commit()
